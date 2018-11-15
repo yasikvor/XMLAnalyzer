@@ -3,7 +3,6 @@ package com.kis.analyzer;
 import javafx.util.Pair;
 import org.jsoup.nodes.Element;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
